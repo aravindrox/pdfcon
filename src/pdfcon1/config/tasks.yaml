@@ -1,0 +1,6 @@
+image_text_extraction_task:
+  description: >
+    Make sure you extract the data from the provoded {image}.
+  expected_output: >
+    All teh text exists in the data
+  agent: image_text_extraction_agent
