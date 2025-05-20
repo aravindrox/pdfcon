@@ -7,6 +7,7 @@ from PIL import Image
 from crewai.tools import tool
 import base64
 import pytesseract
+from docling.document_converter import DocumentConverter
 
 # If you want to run a snippet of code before or after the crew starts,
 # you can use the @before_kickoff and @after_kickoff decorators

@@ -48,8 +48,8 @@ def run():
     Run the crew.
     """
 
-    image_path = "/Users/aswarna/pdfcon1/src/pdfcon1/data/Hello.jpeg" 
-    base64_string = encode_image_to_base64(image_path)
+    # image_path = "/Users/aswarna/pdfcon1/src/pdfcon1/data/Hello.jpeg" 
+    # base64_string = encode_image_to_base64(image_path)
 
     
 
@@ -60,7 +60,7 @@ def run():
         # 'topic': 'AI LLMs',
         # 'current_year': str(datetime.now().year)
         # 'image': base64_string
-        'image':'/Users/aswarna/pdfcon1/src/pdfcon1/data/sample.jpeg'
+        'image':'/Users/aswarna/pdfcon1/src/pdfcon1/data/image.png'
     }
 
     # print(type(base64_string))
