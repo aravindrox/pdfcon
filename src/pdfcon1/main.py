@@ -60,7 +60,7 @@ def run():
         # 'topic': 'AI LLMs',
         # 'current_year': str(datetime.now().year)
         # 'image': base64_string
-        'image':'/Users/aswarna/pdfcon1/src/pdfcon1/data/image.png'
+        'image_url':'/Users/aswarna/pdfcon1/src/pdfcon1/data/image.png'
     }
 
     # print(type(base64_string))

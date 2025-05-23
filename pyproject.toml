@@ -8,6 +8,7 @@ dependencies = [
     "crewai[tools]>=0.118.0,<1.0.0",
     "docling>=2.31.2",
     "pytesseract>=0.3.13",
+    "streamlit>=1.45.1",
     "torch==2.2.2",
     "torchvision==0.17.2",
 ]
